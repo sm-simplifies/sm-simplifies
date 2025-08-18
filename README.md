@@ -1,6 +1,28 @@
-## Hey there 👋
+## Hey There 👋
+
+---
 
 ![devops banner 001](https://github.com/user-attachments/assets/9195cd21-6749-419f-82fa-ac3f9298d2bc)
+
+---
+
+## About Me
+
+---
+
+## My Skills
+
+- AWS : EC2, ELB, Auto Scaling, EBS, S3, IAM, VPC, RDS, SNS, CloudWatch.
+- DevOps : GitHub, Docker, Ansible, Terraform, Jenkins, Kubernetes.
+- Languages : Python, Shell Scripting, Bash Scripting, JavaScript.
+- Tools : Git, Visual Studio Code, Jira, Confluence.
+
+---
+
+## 📫 How To Reach Me
+- GitHub : https://github.com/bytebyswapnil
+- Twitter/X : https://x.com/bytebyswapnil
+- Bluesky : https://bsky.app/profile/smzox.bsky.social
 
 ## My Projects
 
