@@ -1,12 +1,8 @@
 ## Hey There 👋, Welcome to my profile!  
 
----
-
 ## About Me
 
 > AWS DevOps Engineer with 2+ years of experience in AWS Cloud, CI/CD automation, Docker, Kubernetes, and Terraform, focusing on building scalable and reliable solutions.
-
----
 
 ## My Skills
 
@@ -14,8 +10,6 @@
 - DevOps : GitHub, Docker, Ansible, Terraform, Jenkins, Kubernetes.
 - Languages : Python, Shell Scripting, Bash Scripting, JavaScript.
 - Tools : Git, Visual Studio Code, Jira, Confluence.
-
----
 
 ## 📫 How To Reach Me
 - Email : swapnilmali848@gmail.com
