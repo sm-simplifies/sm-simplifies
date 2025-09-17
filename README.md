@@ -8,6 +8,8 @@
 
 ## About Me
 
+> AWS DevOps Engineer with 2+ years of experience in AWS Cloud, CI/CD automation, Docker, Kubernetes, and Terraform, focusing on building scalable and reliable solutions.
+
 ---
 
 ## My Skills
@@ -20,7 +22,7 @@
 ---
 
 ## 📫 How To Reach Me
-- Email : mailto:swapnilmali848@gmail.com
+- Email : swapnilmali848@gmail.com
 - GitHub : https://github.com/sm-simplifies
 - Bluesky : https://bsky.app/profile/sm848.bsky.social
 
