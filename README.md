@@ -1,7 +1,5 @@
 ## Hey There 👋
 
----
-
 ![devops banner 001](https://github.com/user-attachments/assets/9195cd21-6749-419f-82fa-ac3f9298d2bc)
 
 ---
