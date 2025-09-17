@@ -1,10 +1,10 @@
 ## Hey There 👋, Welcome to my profile!  
 
-## About Me
+## 👨‍💻 About Me
 
 > AWS DevOps Engineer with 2+ years of experience in AWS Cloud, CI/CD automation, Docker, Kubernetes, and Terraform, focusing on building scalable and reliable solutions.
 
-## My Skills
+## 🏄‍♂️ My Skills
 
 - AWS : EC2, ELB, Auto Scaling, EBS, S3, IAM, VPC, RDS, SNS, CloudWatch.
 - DevOps : GitHub, Docker, Ansible, Terraform, Jenkins, Kubernetes.
@@ -16,7 +16,7 @@
 - GitHub : https://github.com/sm-simplifies
 - Bluesky : https://bsky.app/profile/sm848.bsky.social
 
-## My Projects
+## 🏷️ My Projects
 
 <!--
 
