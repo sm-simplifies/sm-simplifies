@@ -20,7 +20,7 @@
 ---
 
 ## 📫 How To Reach Me
-- Email : swapnilmali848@gmail.com
+- Email : mailto:swapnilmali848@gmail.com
 - GitHub : https://github.com/sm-simplifies
 - Bluesky : https://bsky.app/profile/sm848.bsky.social
 
