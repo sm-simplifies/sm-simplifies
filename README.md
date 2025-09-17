@@ -20,9 +20,9 @@
 ---
 
 ## 📫 How To Reach Me
-- GitHub : https://github.com/bytebyswapnil
-- Twitter/X : https://x.com/bytebyswapnil
-- Bluesky : https://bsky.app/profile/smzox.bsky.social
+- Email : swapnilmali848@gmail.com
+- GitHub : https://github.com/sm-simplifies
+- Bluesky : https://bsky.app/profile/sm848.bsky.social
 
 ## My Projects
 
