@@ -1,1 +1,4 @@
-## Hi there 👋 Nice to see you :)
+- 👋 Hi, I'm @sm-simplifies
+- 👀 I'm interested in AWS Cloud Services, DevOps, Python, Shell
+- 👥 I'm looking to collaborate on ...
+- 📬 How to reach me 📧swapnilmali848@gmail.com
