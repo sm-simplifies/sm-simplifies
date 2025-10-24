@@ -1,4 +1,4 @@
 - 👋 Hi, I'm @sm-simplifies
-- 👀 I'm interested in AWS Cloud DevOps Python
+- 👀 I'm interested in Technologies like __AWS, DevOps, Python and Bash Scripting__
 - 👥 I'm looking to collaborate on ...
-- 📬 How to reach me 📨 swapnilmali848@gmail.com
+- 📬 How to reach me __swapnilmali848@gmail.com__
