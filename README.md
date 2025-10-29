@@ -1,4 +1,4 @@
-- 👋 Hi, I'm _Swapnil Mali aka @sm-simplifies_
+- 👋 Hi, I'm _Swapnil Mali, aka @sm-simplifies_
 - 📌 Tech Stack that I currently work on: _Docker | Kubernetes | Jenkins CI/CD | Terraform | ArgoCD | Helm | AWS | Prometheus | Grafana_
 - 👀 Interested in _Python and Bash Scripting_
 - 👥 I'm looking to _collaborate on ..._
