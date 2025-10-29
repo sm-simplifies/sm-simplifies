@@ -1,4 +1,5 @@
 - 👋 Hi, I'm _@sm-simplifies_
-- 👀 I'm interested in _AWS Services, DevOps Tools, Python and Bash Scripting_
+- 📌 Tech Stack that I currently work on: Docker | Kubernetes | Jenkins CI/CD | Terraform | ArgoCD | Helm | AWS | Prometheus | Grafana
+- 👀 Interested in Python and Bash Scripting_
 - 👥 I'm looking to _collaborate on ..._
 - 📬 How to reach me _swapnilmali848@gmail.com_
