@@ -22,7 +22,8 @@ I have some experimental and forked projects in my repositories—feel free to e
 ---
 
 ### 📌 Tech Stack that I currently work on: 
-<div align="center">  
+
+<div align="center" style="white-space: nowrap;">  
 
 <!-- 🌩️ Cloud & Infrastructure -->
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
@@ -54,6 +55,7 @@ I have some experimental and forked projects in my repositories—feel free to e
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 
 </div>
+
 
 ---
 
