@@ -21,41 +21,14 @@ I have some experimental and forked projects in my repositories—feel free to e
   
 ---
 
+
 ### 📌 Tech Stack that I currently work on: 
 
 <div align="center" style="white-space: nowrap;">  
-
-<!-- 🌩️ Cloud & Infrastructure -->
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-
-<!-- ⚙️ Containerization & Orchestration -->
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://helm.sh/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/helm.svg" alt="Helm" height="50" /></a>  
-<a href="https://argo-cd.readthedocs.io/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/argo.svg" alt="Argo CD" height="50" /></a>  
-
-<!-- 🧰 CI/CD & DevOps Tools -->
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://github.com/features/actions" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/github-actions.svg" alt="GitHub Actions" height="50" /></a>  
-<a href="https://www.sonarqube.org/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" alt="SonarQube" height="50" /></a>  
-
-<!-- 🧭 Infrastructure as Code -->
-<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
-
-<!-- 📊 Monitoring & Observability -->
-<a href="https://prometheus.io/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/prometheus.svg" alt="Prometheus" height="50" /></a>  
-<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/grafana.svg" alt="Grafana" height="50" /></a>  
-
-<!-- 💻 Scripting & Version Control -->
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a><a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a><a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a><a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a><a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a><a href="https://argo-cd.readthedocs.io/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/argo.svg" alt="Argo CD" height="50" /></a><a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a><a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="GitLab" height="50" /></a><a href="https://www.sonarqube.org/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" alt="SonarQube" height="50" /></a><a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a><a href="https://prometheus.io/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/prometheus.svg" alt="Prometheus" height="50" /></a><a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/grafana.svg" alt="Grafana" height="50" /></a><a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a><a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a><a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>   
 
 </div>
-
 
 ---
 
