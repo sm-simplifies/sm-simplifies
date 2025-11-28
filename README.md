@@ -14,9 +14,13 @@ I have some experimental and forked projects in my repositories—feel free to e
 
 ---
 
+### 📝 Blog posts:
+- [AWS EKS + Jenkins CI/CD Project Workflow Execution.](https://medium.com/@sm-simplifies/aws-eks-jenkins-ci-cd-project-workflow-execution-06628ab8cea7)
+---
+
 ### 📬 How to reach me: 
 <p align="left">
-<a href="mailto:swapnilmali848@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
+<a href="mailto:swapnilmali848@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-Logo-2013.png" alt="gmail" height="30" width="40" /></a>
 </p>
   
 ---
