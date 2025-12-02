@@ -16,10 +16,10 @@ I have some experimental and forked projects in my repositories—feel free to e
 
 ### 📬 How to reach me: 
 <p align="left">
-<a href="mailto:swapnilmali848@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-Logo-2013.png" alt="gmail" height="30" width="40" /></a> swapnilmali848@gmail.com
+<a href="mailto:swapnilmali848@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-Logo-2013.png" alt="gmail" height="30" width="40" />swapnilmali848@gmail.com</a> 
 </p>
 <p align="left">
-<a href="https://x.com/@SMSimplifies" target="blank"><img align="center" src="https://toppng.com/uploads/preview/twitter-x-new-logo-symbol-png-11692479881mg8srkkgy5.webp" alt="x" height="30" width="40" /></a> @SMSimplifies
+<a href="https://x.com/@SMSimplifies" target="blank"><img align="center" src="https://toppng.com/uploads/preview/twitter-x-new-logo-symbol-png-11692479881mg8srkkgy5.webp" alt="x" height="30" width="40" />@SMSimplifies</a> 
 </p>
   
 ---
