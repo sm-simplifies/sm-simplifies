@@ -43,7 +43,7 @@ I have some experimental and forked projects in my repositories—feel free to e
 
 ---
 
-![devops banner 001](https://github.com/user-attachments/assets/511743a7-7f93-46a2-865a-bf379dbf18c5)
+<img width="4160" height="2340" alt="aws-devops-techstack" src="https://github.com/user-attachments/assets/3ecc7956-ee13-43e8-992b-efcb8d6149fd" />
 
 ---
 
