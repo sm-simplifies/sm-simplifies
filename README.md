@@ -11,8 +11,9 @@ I have some experimental and forked projects in my repositories—feel free to e
 ---
 
 ### 📝 tech writings:
+
 - [Deploying a Java Web App to Tomcat on AWS using Jenkins: A Step-by-Step Freestyle Guide](https://medium.com/@sm-simplifies/deploying-a-java-web-app-to-tomcat-on-aws-using-jenkins-a-step-by-step-freestyle-guide-9b9ab48e5197)
-- [AWS EKS + Jenkins CI/CD Project Workflow Execution.](https://medium.com/@sm-simplifies/aws-eks-jenkins-ci-cd-project-workflow-execution-06628ab8cea7)
+
 ---
 
 ### 📬 How to reach me: 
