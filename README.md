@@ -24,7 +24,7 @@ I have some experimental and forked projects in my repositories—feel free to e
 <a href="https://t.me/swapnilmali" target="blank"><img align="center" src="https://toppng.com/uploads/preview/telegram-logo-transparent-background-11661551214mmusgfge6f.png" alt="telegram" height="40" width="40" />@swapnilmali</a> 
 </p>
 <p align="left">
-<a href="www.linkedin.com/in/sm-simplifies" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=8808&format=png" alt="linkedin" height="40" width="40" />@sm-simplifies</a> 
+<a href="https://linkedin.com/in/sm-simplifies" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=8808&format=png" alt="linkedin" height="40" width="40" />@sm-simplifies</a> 
 </p>
 <p align="left">
 <a href="https://x.com/@SMSimplifies" target="blank"><img align="center" src="https://toppng.com/uploads/preview/twitter-x-new-logo-symbol-png-11692479881mg8srkkgy5.webp" alt="x" height="40" width="40" />@SMSimplifies</a> 
