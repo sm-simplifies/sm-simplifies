@@ -21,9 +21,6 @@ I have some experimental and forked projects in my repositories—feel free to e
 <a href="mailto:swapnilmali848@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-Logo-2013.png" alt="gmail" height="40" width="40" />swapnilmali848@gmail.com</a> 
 </p>
 <p align="left">
-<a href="https://t.me/swapnilmali" target="blank"><img align="center" src="https://toppng.com/uploads/preview/telegram-logo-transparent-background-11661551214mmusgfge6f.png" alt="telegram" height="40" width="40" />@swapnilmali</a> 
-</p>
-<p align="left">
 <a href="https://linkedin.com/in/sm-simplifies" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=8808&format=png" alt="linkedin" height="40" width="40" />@sm-simplifies</a> 
 </p>
 <p align="left">
