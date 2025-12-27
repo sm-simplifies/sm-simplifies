@@ -27,7 +27,7 @@ I have some experimental and forked projects in my repositories—feel free to e
 <a href="https://linkedin.com/in/swapnilmali-devops" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=8808&format=png" alt="linkedin" height="40" width="40" />@swapnilmali-devops</a> 
 </p>
 <p align="left">
-<a href="https://x.com/@SMSimplifies" target="blank"><img align="center" src="https://toppng.com/uploads/preview/twitter-x-new-logo-symbol-png-11692479881mg8srkkgy5.webp" alt="x" height="40" width="40" />@SMSimplifies</a> 
+<a href="https://x.com/swapnil_zxo" target="blank"><img align="center" src="https://toppng.com/uploads/preview/twitter-x-new-logo-symbol-png-11692479881mg8srkkgy5.webp" alt="x" height="40" width="40" />@swapnil_zxo</a> 
 </p>
   
 ---
