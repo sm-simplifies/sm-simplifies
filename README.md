@@ -5,8 +5,8 @@
 ---
 
 I have some experimental and forked projects in my repositories—feel free to explore, use, or contribute. I believe knowledge grows when it's shared! 👥 
-[![GitHub Follow Badge](https://img.shields.io/github/followers/sm-simplifies?label=follow&style=social)](https://github.com/sm-simplifies)
-<p align="left"><img src="https://komarev.com/ghpvc/?username=sm-simplifies&label=Profile%20views&color=0e75b6&style=flat" alt="sm-simplifies" /></p>
+[![GitHub Follow Badge](https://img.shields.io/github/followers/swapnil-zxo?label=follow&style=social)](https://github.com/swapnil-zxo)
+<p align="left"><img src="https://komarev.com/ghpvc/?username=swapnil-zxo&label=Profile%20views&color=0e75b6&style=flat" alt="sm-simplifies" /></p>
 
 ---
 
