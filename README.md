@@ -1,21 +1,16 @@
-### 👋 Hi, I'm _Swapnil Mali, aka @swapnil-zxo_
+# 👋 Hi, I'm _Swapnil Mali, aka @swapnil-zxo_ 🙋🏻‍♂️
 
-> I am passionate about cloud technology and the process of developing, testing, and deploying software through continuous integration and delivery (CI/CD). I specialize in using AWS and DevOps tools and aim to contribute to impactful projects that benefit society.
+🎯 I am passionate about cloud technology and the process of developing, testing, and deploying software through continuous integration and delivery (CI/CD). I specialize in using AWS and DevOps tools and aim to contribute to impactful projects that benefit society. 🚀
 
----
-
-I have some experimental and forked projects in my repositories—feel free to explore, use, or contribute. I believe knowledge grows when it's shared! 👥 
+🏄‍♂️ I have some experimental and forked projects in my repositories—feel free to explore, use, or contribute. I believe knowledge grows when it's shared! 👥 
 [![GitHub Follow Badge](https://img.shields.io/github/followers/swapnil-zxo?label=follow&style=social)](https://github.com/swapnil-zxo)
 <p align="left"><img src="https://komarev.com/ghpvc/?username=swapnil-zxo&label=Profile%20views&color=0e75b6&style=flat" alt="sm-simplifies" /></p>
 
----
-
-### 📝 tech writings:
+## 📝 tech writings:
 
 - [Deploying a Java Web App to Tomcat on AWS using Jenkins: A Step-by-Step Freestyle Guide](https://medium.com/@sm-simplifies/deploying-a-java-web-app-to-tomcat-on-aws-using-jenkins-a-step-by-step-freestyle-guide-9b9ab48e5197)
 
----
-
+<!--
 ### 📬 How to reach me: 
 <p align="left">
 <a href="mailto:swapnilmali848@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-Logo-2013.png" alt="gmail" height="40" width="40" />swapnilmali848@gmail.com</a> 
@@ -32,7 +27,7 @@ I have some experimental and forked projects in my repositories—feel free to e
   
 ---
 
-<!--
+
 ### 📌 Tech Stack that I currently work on: 
 
 <div align="center" style="white-space: nowrap;">  
@@ -42,10 +37,8 @@ I have some experimental and forked projects in my repositories—feel free to e
 
 -->
 
-### Happy Coding! 😊
-### As a Cloud & DevOps Engineer
-
----
+## 👨🏻‍💻 Happy Coding! 😊
+> As a Cloud & DevOps Engineer
 
 <img width="4160" height="2340" alt="aws-devops-techstack" src="https://github.com/user-attachments/assets/3ecc7956-ee13-43e8-992b-efcb8d6149fd" />
 
