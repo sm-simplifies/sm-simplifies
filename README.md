@@ -1,34 +1,19 @@
 <img width="1584" height="396" alt="1" src="https://github.com/user-attachments/assets/1fd06ec9-6601-4db0-b130-dc9381f23b70" />
 
-# 👋 Hi, I'm _Swapnil Mali, aka @swapnil-zxo_ 🙋🏻‍♂️
+# 👋 Hi, I'm _Swapnil Mali, aka @swapnilmali101_ 🙋🏻‍♂️
 
 🎯 I am passionate about cloud technology and the process of developing, testing, and deploying software through continuous integration and delivery (CI/CD). I specialize in using AWS and DevOps tools and aim to contribute to impactful projects that benefit society. 🚀
 
 🏄‍♂️ I have some experimental and forked projects in my repositories—feel free to explore, use, or contribute. I believe knowledge grows when it's shared! 👥 
-[![GitHub Follow Badge](https://img.shields.io/github/followers/swapnil-zxo?label=follow&style=social)](https://github.com/swapnil-zxo)
-<p align="left"><img src="https://komarev.com/ghpvc/?username=swapnil-zxo&label=Profile%20views&color=0e75b6&style=flat" alt="sm-simplifies" /></p>
+[![GitHub Follow Badge](https://img.shields.io/github/followers/swapnilmali101?label=follow&style=social)](https://github.com/swapnilmali101)
 
 ## 📝 tech writings:
 
 - [Deploying a Java Web App to Tomcat on AWS using Jenkins: A Step-by-Step Freestyle Guide](https://medium.com/@sm-simplifies/deploying-a-java-web-app-to-tomcat-on-aws-using-jenkins-a-step-by-step-freestyle-guide-9b9ab48e5197)
 
 <!--
-### 📬 How to reach me: 
-<p align="left">
-<a href="mailto:swapnilmali848@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-Logo-2013.png" alt="gmail" height="40" width="40" />swapnilmali848@gmail.com</a> 
-</p>
-<p align="left">
-<a href="https://github.com/swapnil-zxo" target="blank"><img align="center" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="github" height="40" width="40" />@swapnil-zxo</a> 
-</p>
-<p align="left">
-<a href="https://linkedin.com/in/swapnilmali-devops" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=8808&format=png" alt="linkedin" height="40" width="40" />@swapnilmali-devops</a> 
-</p>
-<p align="left">
-<a href="https://x.com/swapnil_zxo" target="blank"><img align="center" src="https://toppng.com/uploads/preview/twitter-x-new-logo-symbol-png-11692479881mg8srkkgy5.webp" alt="x" height="40" width="40" />@swapnil_zxo</a> 
-</p>
-  
----
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=swapnilmali101&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilmali101" /></p>
 
 ### 📌 Tech Stack that I currently work on: 
 
