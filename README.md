@@ -1,13 +1,13 @@
 <img width="1584" height="396" alt="1" src="https://github.com/user-attachments/assets/1fd06ec9-6601-4db0-b130-dc9381f23b70" />
 
-# 👋 Hi, I'm _Swapnil Mali, aka @swapnilmali101_ 🙋🏻‍♂️
+👋 Hi, I'm ___swapnilmali101, aka Swapnil Mali.___
 
 🎯 I am passionate about cloud technology and the process of developing, testing, and deploying software through continuous integration and delivery (CI/CD). I specialize in using AWS and DevOps tools and aim to contribute to impactful projects that benefit society. 🚀
 
 🏄‍♂️ I have some experimental and forked projects in my repositories—feel free to explore, use, or contribute. I believe knowledge grows when it's shared! 👥 
 [![GitHub Follow Badge](https://img.shields.io/github/followers/swapnilmali101?label=follow&style=social)](https://github.com/swapnilmali101)
 
-## 📝 tech writings:
+###### 📝 tech writings:
 
 - [Deploying a Java Web App to Tomcat on AWS using Jenkins: A Step-by-Step Freestyle Guide](https://swapnilmali101.medium.com/deploying-a-java-web-app-to-tomcat-on-aws-using-jenkins-a-step-by-step-freestyle-guide-9b9ab48e5197)
 
