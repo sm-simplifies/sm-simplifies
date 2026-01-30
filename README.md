@@ -15,6 +15,6 @@
 <!--END_SECTION:posts-->
 
 ##### Here's a photo of myself in 🦢🐦🦆 Bird Valley Udyan (Garden) 🦅🕊️🐥:
-
-|  <img width="558" alt="Mooki" src="https://github.com/user-attachments/assets/34820ad1-2be5-4825-8df1-679b89145f4c"> |
-| --- |
+| 
+| <img width="558" alt="Mooki" src="https://github.com/user-attachments/assets/34820ad1-2be5-4825-8df1-679b89145f4c"> |
+| --- ||
