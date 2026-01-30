@@ -10,7 +10,7 @@
 ##### Blog posts
 
 <!--START_SECTION:posts-->
-* [Essential Linux Commands for DevOps Engineers](https://blog.smicx20.in/posts/linux-for-devops/)
+* [Essential Linux Commands](https://blog.smicx20.in/posts/linux-for-devops/)
 * [Basic git commands](https://blog.smicx20.in/posts/basic-git-commands/)
 <!--END_SECTION:posts-->
 
