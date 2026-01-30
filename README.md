@@ -5,7 +5,7 @@
 🎯 I am passionate about cloud technology and the process of developing, testing, and deploying software through continuous integration and delivery (CI/CD). I specialize in using AWS and DevOps tools and aim to contribute to impactful projects that benefit society. 🚀
 
 🏄‍♂️ I have some experimental and forked projects in my repositories—feel free to explore, use, or contribute. I believe knowledge grows when it's shared! 👥 
-[Github Profile](https://ghbtns.com/github-btn.html?user=swapnilmali101&type=follow&count=true)
+<iframe src="https://ghbtns.com/github-btn.html?user=swapnilmali101&type=follow&count=true" frameborder="0" scrolling="0" width="170" height="20" title="GitHub"></iframe>
 
 ###### 📝 tech writings:
 
