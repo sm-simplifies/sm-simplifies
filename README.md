@@ -1,4 +1,10 @@
-<h3 align="center">👋 Hello! I'm Swapnil.</h3>
+<h3 align="center">👋 Hello! I'm Swapnil. 
+  
+![profile-pic-emoji](https://github.com/user-attachments/assets/0eadbe09-8d7a-41d9-996e-98d532d01bfe)
+  
+</h3> 
+
+
 
 <p align="center">
   <a href="https://blog.smicx20.in">Blog</a> •
